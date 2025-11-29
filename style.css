@@ -274,3 +274,15 @@ Features
     color: #bfbfbf;
 
 }
+
+/* 
+Latest
+*/
+
+#latest {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.books__latest {
+    display: flex;
+    flex-wrap: wrap;
+}
